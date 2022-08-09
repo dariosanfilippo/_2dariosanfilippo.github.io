@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-10-30
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+The International Faust Conference programme is now online: [IFC programme](https://ifc20.sciencesconf.org/program).
