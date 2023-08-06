@@ -24,5 +24,5 @@ I have a PhD in Computer Music from the University of Edinburgh; my research foc
 
 My work combines principles of agency, autopoiesis, evolvability, fitness, and radical constructivism for the design of complex audio feedback networks that are deployed in live performance for human-machine interaction or autonomous machines.
 
-Currently, I am part of the research and development team at FL Studio working on algorithmic composition tools and DSP.
+Currently, I am part of the R&D team at FL Studio working on algorithmic composition tools and DSP.
 ___
